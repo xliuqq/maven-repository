@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>annotations-for-doc-maven-plugin</name>
+      <prefix>annotations-for-doc</prefix>
+      <artifactId>annotations-for-doc-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
