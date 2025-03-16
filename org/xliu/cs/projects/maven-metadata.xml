@@ -2,9 +2,9 @@
 <metadata>
   <plugins>
     <plugin>
-      <name>annotations-for-doc-maven-plugin</name>
-      <prefix>annotations-for-doc</prefix>
-      <artifactId>annotations-for-doc-maven-plugin</artifactId>
+      <name>annotations-readme-maven-plugin</name>
+      <prefix>annotations-readme</prefix>
+      <artifactId>annotations-readme-maven-plugin</artifactId>
     </plugin>
   </plugins>
 </metadata>
